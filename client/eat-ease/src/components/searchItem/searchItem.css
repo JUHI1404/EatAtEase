@@ -1,0 +1,12 @@
+.sCtn{
+    display: flex;
+    justify-content: space-between;
+}
+
+.rating{
+    background-color: #03989E;
+    color: white;
+    padding: 5px;
+    font-weight: bold;
+    border: none;
+}
